@@ -1,0 +1,23 @@
+# Vagrant
+.vagrant/
+*.log
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Office
+*.docx
+*.pptx
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
